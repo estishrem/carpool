@@ -1,7 +1,7 @@
 # carpool
 
-Clone all carpool folder
-npm install in client folder
+#1 Clone all carpool folder
+#2 npm install in client folder
 npm install in server folder
 npm start for client
 npm start for server (port 3000 and 3001 - check the order)
