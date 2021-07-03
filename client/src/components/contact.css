@@ -1,0 +1,220 @@
+.MuiPaper-rounded {
+    border-radius: 4px;
+    min-width: 700px;
+    min-height: 550px;
+
+}
+.MuiDialog-paperFullWidth {
+    min-width: 600px;
+    min-height: 600px;
+    background-color: #e6e7e8 !important;
+    overflow-x: hidden
+}
+.popup{
+    height: 450px;
+}
+.back_img {
+    position: absolute;
+    width: 600px;
+    height: 450px;
+    left: 50px;
+    background: #e6e7e8;
+    right: 80px;
+    top: 70px;
+}
+.line1{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 50px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 200px
+
+}
+.line2{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 100px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 200px;
+
+}
+.line3{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 150px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    right: 200px;
+    color: #1C2C53;
+
+}
+.line4{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 200px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 200px;
+
+}
+.line5{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 250px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 200px;
+
+}
+.line6{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 300px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 200px;
+
+}
+.line7{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 350px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 200px;
+
+}
+.line62{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 200px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 120px;
+
+}
+.line72{
+    position: absolute;
+    width: 420px;
+    height: 33px;
+    top: 270px;
+    font-family: Ploni DL 1.1 AAA;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: right;
+    color: #1C2C53;
+    right: 120px;
+
+}
+
+.text {
+    position: absolute;
+    width: 175px;
+    height: 30px;
+    left: 80px;
+    /* background: #F2F2F2; */
+    border-radius: 5px;
+}
+.btn {
+    background: #43bda2;
+    box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);
+    border-radius: 50px;
+    width: 195px;
+    border: none;
+    height: 61px;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1c2c53;
+}
+
+.title {
+    color: #FBAB41;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+    font-family: Ploni DL 1.1 AAA;
+    align-self: center;
+    margin-top: 15px;
+}
+
+.title2 {
+    color: #FBAB41;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+    font-family: Ploni DL 1.1 AAA;
+    align-self: center;
+    margin-top: 15px;
+}
+
+.save2 {
+    background: #43bda2;
+    /* box-shadow: 0px 8px 15px rgb(0 0 0 / 10%); */
+    border-radius: 50px;
+    width: 195px;
+    border: none;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #1c2c53;
+    position: absolute;
+    top: 450px;
+    left: 100px;
+}
+
+.contact {
+    min-height: 400px !important;
+}

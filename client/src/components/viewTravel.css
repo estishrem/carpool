@@ -1,0 +1,159 @@
+.btn1 {
+    position: absolute;
+    left: 35%;
+    right: 35.14%;
+    top:  44.14%;
+    bottom: 46.58%;
+
+    background: #fbab41;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    width: 150px;
+    border: none;
+}
+
+.btn2 {
+    position: absolute;
+    left: 50%;
+    right: 25.14%;
+    top: 44.14%;
+    bottom: 46.58%;
+}
+
+.btn11 {
+    position: absolute;
+    left: 35%;
+    right: 35.14%;
+    top: 23%;
+    bottom: 46.58%;
+
+    background: #fbab41;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    width: 150px;
+    border: none;
+}
+
+.btn22 {
+    position: absolute;
+    left: 50%;
+    right: 25.14%;
+    top: 23%;
+    bottom: 46.58%;
+}
+
+.new-btn {
+    background: #fbab41;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    width: 195px;
+    border: none;
+    height: 61px;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1c2c53;
+}
+
+.btn3 {
+    position: absolute;
+    right: 80px;
+    top: 50%;
+    bottom: 46.58%;
+
+    background: #43bda2;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    width: 195px;
+    border: none;
+    height: 61px;
+}
+
+.btn-basic {
+    background: #43bda2;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    width: 120px;
+    border: none;
+    height: 30px;
+    color: #1c2c53;
+    text-align: center;
+    font-family: inherit;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.btn {
+    position: absolute;
+    left: 210px;
+    bottom: 100px;
+    right: 250px;
+    top: 380px;
+    bottom: 30px;
+    background: #43bda2;
+    border: 0.653653px solid #43bda2;
+    box-sizing: border-box;
+    box-shadow: 0px 5.92806px 11.1151px rgb(0 0 0 / 10%);
+    border-radius: 58.8287px;
+}
+
+
+.view-travel {
+    height: 300px;
+    overflow-y: auto;
+    position: absolute;
+    top: 35%;
+    margin-left: 7%;
+    margin-right: 12%;
+    direction: rtl;
+    border: none;
+    right: 0;
+
+}
+
+td {
+    background-color: #F2F2F2;
+    border-radius: 5px;
+    border: none;
+    height: 15px;
+    color: #1c2c53;
+    text-align: center;
+    font-family: inherit;
+    padding-bottom: 10px;
+
+}
+
+th {
+    font-weight: 600;
+}
+
+tr {
+    padding-bottom: 10px;
+
+}
+.td1 {
+    width: 150px;
+}
+
+.td2 {
+    width: 100px;
+}
+
+.td3 {
+    width: 200px;
+}
+
+.td4 {
+    width: 200px;
+}
+
+.td5 {
+    width: 250px;
+}
+
+.td6 {
+    width: 150px;
+}
+
+.hidden { 
+    visibility:hidden;
+}
